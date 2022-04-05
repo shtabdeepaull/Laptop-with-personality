@@ -2,10 +2,13 @@
 
 
 ## Live Link
+ [https://sensational-cuchufli-427ebd.netlify.app/]
+(https://sensational-cuchufli-427ebd.netlify.app/) 
 
-In the project directory, you can run:
-
-Runs the app in the development mode.\
-Open [https://sensational-cuchufli-427ebd.netlify.app/](https://sensational-cuchufli-427ebd.netlify.app/) to view it in your browser.
-
-
+### About Project
+<ul>
+   <li>Create Customer Review</li>
+   <li>Use Custom Hooks </li>
+   <li>Added Questions Answers in Blog Section</li>
+   <li>Added Different Kind of Chart in Dashboard</li>
+</ul>

@@ -2,6 +2,7 @@
     {
       "_id": "624a73abb18b7f5625b3b34d",
       "index": 0,
+      "description":"Huawei has plenty of experience with its MatePad tablet lineup and now goes one step further with the new MateBook E, a 2-in-1 laptop or convertible with Windows 11 as well as Tiger Lake UP4 processors.",
       "picture": "https://images.unsplash.com/photo-1592434134753-a70baf7979d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
       "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "rating": 4.00,
@@ -10,6 +11,7 @@
     {
       "_id": "624a73ab9081006514fb005e",
       "index": 1,
+      "description":"The new ultimate Mac laptop, the 2021 Apple MacBook Pro 16-Inch is a finely engineered, high-octane workstation that will thrill content creators.",
       "picture": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "image": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "rating":4.05,
@@ -18,6 +20,7 @@
     {
       "_id": "624a73abb57b8cc32a9257c9",
       "index": 2,
+      "description":"It's pricey for a Chromebook, but Acer's Chromebook Spin 713 remains a world-class alternative to Windows convertibles.",
       "picture": "https://images.unsplash.com/photo-1579362243176-b746a02bc030?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=881&q=80",
       "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
       "rating": 5.00,
@@ -26,6 +29,7 @@
     {
       "_id": "624a73ab7029819991f14103",
       "index": 3,
+      "description":"The Asus ROG Flow Z13 gaming tablet is impressive on a design and engineering level, but its high price and niche appeal make it a tough sell versus equally portable premium gaming laptops.",
       "picture": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       "image": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
       "rating": 3.40,
@@ -33,7 +37,8 @@
     },
     {
       "_id": "624a73abc1d0cb15c38f5173",
-      "index": 3.00,
+      "index": 4,
+      "description":"It's pricey for a Chromebook, but Acer's Chromebook Spin 713 remains a world-class alternative to Windows convertibles.",
       "picture": "https://images.unsplash.com/photo-1580522154071-c6ca47a859ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "image": "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
       "rating": 3.99,
@@ -42,6 +47,7 @@
     {
       "_id": "624a73ab0a8cc3ee5abf368b",
       "index": 5,
+      "description":"A trim-to-the-max chassis, a beautiful screen, and a cutting-edge Intel Tiger Lake processor help the latest Dell XPS 13 affirm its status as today's top high-end ultraportable.",
       "picture": "https://images.unsplash.com/photo-1565339119519-c9eaa1918b9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       "rating": 3.00,
@@ -50,9 +56,10 @@
     {
       "_id": "624a73ab6a337f848a4d1ee0",
       "index": 6,
+      "description":"The Asus Laptop L410 is a super-affordable PC, even among budget notebooks, compromising on the display and processing power to deliver a serviceable Windows machine with good battery life",
       "picture": "https://images.unsplash.com/photo-1601524909162-ae8725290836?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=461&q=80",
-      "rating": 3.50,
+      "rating": 4.50,
       "name": "Stella"
     }
   ]

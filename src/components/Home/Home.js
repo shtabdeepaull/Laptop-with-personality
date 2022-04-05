@@ -1,9 +1,19 @@
 import React from 'react';
+import useProducts from '../../hooks/useProducts';
 import img from '../image/img.png';
+import Product from '../Product/Product';
 
 const Home = () => {
+    const [products,setproducts] = useProducts();
+    if(products.rating < 4 ){
+        products.map(product => <Product
+        key={product._id}
+        product={product}
+        ></Product>)
+    }
     return (
-        <div className='grid gap-x-5 grid-cols-2  m-6'>
+        <section>
+            <div className='grid gap-x-5 grid-cols-2  m-6'>
             <div className='mt-20'>
                 <h2 className='text-4xl font-semibold '>Laptop With Personality</h2>
                 <p className='font-mono'>Laptop has a place in our heart when it's about our work and gaming.
@@ -15,6 +25,24 @@ const Home = () => {
                 <img src={img} alt="" />
             </div>
         </div>
+
+        <div>
+        <p className='text-center text-2xl font-bold mt-16'>Customer Review</p>
+        <div className='grid grid-cols-3 mt-8'>
+            {
+            
+               products.map(product => <Product
+               key={product._id}
+               product={product}
+               ></Product>)
+               
+              
+            }
+        </div>
+        </div>
+        </section>
+
+       
     );
 };
 
