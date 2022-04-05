@@ -2,8 +2,8 @@
 
 
 ## Live Link
- [https://sensational-cuchufli-427ebd.netlify.app/]
-(https://sensational-cuchufli-427ebd.netlify.app/) 
+ https://sensational-cuchufli-427ebd.netlify.app/
+
 
 ### About Project
 <ul>
